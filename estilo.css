@@ -1,6 +1,8 @@
 body{
 width: 50%;
 margin: auto;
+right: 50%;
+
 }
 
 h1{
@@ -13,4 +15,8 @@ li{
 
 h2{
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    margin-left: 40%;
 }
